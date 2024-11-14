@@ -1,0 +1,10 @@
+.all{
+    display: flex;
+    justify-content: center;
+}
+.other{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 60px;
+}
